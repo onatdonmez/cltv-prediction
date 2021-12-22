@@ -8,7 +8,7 @@ Finally, we combine these values to obtain the CLTV value.
 
 ### Business Problem
 An e-commerce site wants a forward projection for customer actions according to the CLTV values of its customers.
-With the dataset you have, is it possible to identify the customers who can generate the most monetary value within 1-month or 6-month time periods?
+With the dataset you have, is it possible to identify the customers who can generate the most potential value(revenue) within 1-month or 6-month time periods?
 
 ### Dataset Story
 The dataset named Online Retail II includes the sales of a UK-based online store between 01/12/2009 - 09/12/2011.
